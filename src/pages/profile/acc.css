@@ -1,0 +1,13 @@
+.pannel{
+    width: 200px;
+    background-color: rgb(210, 210, 210);
+    position: absolute;
+    top: 5rem;
+    right: 2rem;
+}
+
+.btn{
+    text-decoration: none !important;
+    color: #ffff !important;
+    padding: 3px 10px !important;
+}
